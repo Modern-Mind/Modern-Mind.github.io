@@ -1,0 +1,44 @@
+body {
+  background-color: #141D2B;
+font-family: 'Open Sans', Sans-Serif;
+
+}
+h1 {
+    position: relative;
+
+    color: #5CECC6;
+}
+
+h3 {
+
+    color: #FF8484;
+	font-size: 31px;
+
+}
+
+h4 {
+    
+    Color: #CF8DFB;
+}
+
+p {
+    Color: #a4b1cd;
+}
+
+
+a{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+  a:link, a:visited {
+    background-color: #141D2B;
+    color: #5CECC6;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+   
