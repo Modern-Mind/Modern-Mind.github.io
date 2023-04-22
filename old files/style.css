@@ -1,0 +1,70 @@
+body {
+  background-color: #313B72;
+font-family: 'Open Sans', Sans-Serif;
+
+}
+h1 {
+    position: absolute;
+    left: 45%;
+    top: 45%;
+
+    color: #7EE081;
+}
+
+h3 {
+
+    color: #62A87C;
+	font-size: 31px;
+
+}
+
+h4 {
+    
+    Color: #62A87C;
+}
+
+p {
+    Color: #c3f3c0;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+a:link, a:visited {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: #313B72;
+
+}
+
+img {
+    max-height: 100%;
+    width: 100%;    
+}
+   
+.topnav-centered a {
+    position: absolute;
+    width: 23.1%;
+    height: 8.5%;
+    top: 5%;
+    left: 5%;
+    border-radius: 50px;
+
+    background: #62A87C;    
+}
+.topnav-centered2 a {
+    position: absolute;
+    width: 23.1%;
+    height: 8.5%;
+    top: 5%;
+    left: 72%;
+    border-radius: 50px;
+    
+    background: #62A87C;
+}
