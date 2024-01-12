@@ -48,27 +48,26 @@ font-family: 'Open Sans', Sans-Serif;
 h1 {
     position: relative;
     color: #5CECC6;
-    text-align:center;
+    max-width: 60ch;
 }
 
 
 h3 {
 
     color: #FF8484;
-text-align:center;
+max-width: 60ch;
 }
 
 h4 {
     
     Color: #CF8DFB;
-text-align:center;
+max-width: 60ch;
 }
 
 p {
     Color: #a4b1cd;
 
-      margin: 35px;
-text-align:center;
+max-width: 60ch;
 }
 
 
