@@ -1,13 +1,50 @@
 body {
   background-color: #141D2B;
 font-family: 'Open Sans', Sans-Serif;
+}
+
+@media only screen and (min-width: 601px) {
+  section.welcome-section {
+    font-size: 20px;
+  }
+}
+
+/* If the screen size is 600px or less, set the font-size of <div> to 30px */
+@media only screen and (max-width: 600px) {
+  section.welcome-section {
+    font-size: 30px;
+  }
+} 
+
+#welcome-section{
+
+  display: grid;
+  justify-content: center;
 
 }
+
+#profile-header {
+  display: flex;
+  justify-content: center;
+}
+
+#profile-links {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#navbar
+{
+   position: fixed;
+   top: 0;
+}
+
 h1 {
     position: relative;
-
     color: #5CECC6;
+    text-align:center;
 }
+
 
 h3 {
 
@@ -18,10 +55,14 @@ h3 {
 h4 {
     
     Color: #CF8DFB;
+
 }
 
 p {
     Color: #a4b1cd;
+
+      margin: 35px;
+
 }
 
 
