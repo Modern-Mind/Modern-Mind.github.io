@@ -22,7 +22,13 @@ font-family: 'Open Sans', Sans-Serif;
   justify-content: center;
 
 }
+#projects{
 
+  display: grid;
+  justify-content: center;
+
+}
+ 
 #profile-header {
   display: flex;
   justify-content: center;
