@@ -22,6 +22,11 @@ font-family: 'Open Sans', Sans-Serif;
   justify-content: center;
 
 }
+
+#about-section {
+ max-width: 60ch;
+}
+
 #projects{
 
   display: grid;
